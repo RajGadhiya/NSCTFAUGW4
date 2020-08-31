@@ -157,3 +157,6 @@ Now you just need to observe the flag.
 
 *Flag : nsctf{H3y_y0u_d!d_!t}*
 
+## CTF Statistics
+
+<kbd>![](NSCTFAUGW4/scoreboard.png)</kbd>
