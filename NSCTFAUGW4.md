@@ -92,7 +92,7 @@ From the description, I got the idea that I have to look for HR directory.
 
 <kbd>![](NSCTFAUGW4/10.png)</kbd>
 
-So I visited the ```HR-Team/offer-letters.html```. There were 5 PDF links and I visited each link
+So I visited the ```HR-Team/offer-letters.html```. There were 5 PDF links and I visited each link.
 
 <kbd>![](NSCTFAUGW4/11.png)</kbd>
 
