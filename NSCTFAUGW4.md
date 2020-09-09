@@ -7,7 +7,7 @@
 
 <kbd>![](NSCTFAUGW4/00.png)</kbd>   
 
- <span style="color:red"> Net Square Solutions Pvt. Ltd.</span>
+[Net Square Solutions Pvt. Ltd.](https://net-square.com)
 
 ## Overview
 
