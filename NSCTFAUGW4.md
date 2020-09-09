@@ -13,7 +13,7 @@
 
 Hi,
 
-I am [Raj Gadhiya](https://twitter.com/gadhiyaraj727) and currently working as a Security Analyst at [Net Square Solutions Pvt. Ltd.](https://net-square.com). I participated in ctf as ```Raj```.
+I am [Raj Gadhiya](https://twitter.com/gadhiyaraj727) and currently working as a Security Analyst at [Net Square Solutions Pvt. Ltd.](https://net-square.com) I participated in ctf as ```Raj```.
 
 ## Overview
 
