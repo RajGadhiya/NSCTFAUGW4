@@ -9,6 +9,12 @@
 
 [Net Square Solutions Pvt. Ltd.](https://net-square.com)
 
+## About Me
+
+Hi,
+
+I am [Raj Gadhiya](https://twitter.com/gadhiyaraj727) and currently working as a Security Analyst at [Net Square Solutions Pvt. Ltd.](https://net-square.com). I participated in ctf as ```Raj```.
+
 ## Overview
 
 There were 4 challenges in this CTF related to web. CouchDB was used at the backend and we exploited Node JS deserialization to get the final flag.
