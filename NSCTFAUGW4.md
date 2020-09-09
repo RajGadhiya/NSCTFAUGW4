@@ -17,7 +17,7 @@ I am [Raj Gadhiya](https://twitter.com/gadhiyaraj727) and currently working as a
 
 ## Overview
 
-This ```CTF``` is build by [Aman Barot](https://twitter.com/amanbarot12). There were 4 challenges in this CTF related to web. CouchDB was used at the backend and we exploited Node JS deserialization to get the final flag.
+This ```CTF``` was build by [Aman Barot](https://twitter.com/amanbarot12). There were 4 challenges in this CTF related to web. CouchDB was used at the backend and we exploited Node JS deserialization to get the final flag.
 
 ## Tools Used
 - BurpSuite
