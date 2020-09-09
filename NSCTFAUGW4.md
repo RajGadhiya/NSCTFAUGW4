@@ -3,6 +3,11 @@
 * Date: 28th August 2020
 * Time: 2:00 to 3:00 PM
 
+## Organized By
+
+<kbd>![](NSCTFAUGW4/00.png)</kbd>   
+
+ <span style="color:red"> Net Square Solutions Pvt. Ltd.</span>
 
 ## Overview
 
